@@ -1,4 +1,4 @@
-# Mieruko-chan Scripts
+# Fairy Knight University Scripts
 
 Working repository for [Fairy Knight University's](https://mangadex.org/group/2751/fairy-knight-university) scanlation scripts.
 

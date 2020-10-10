@@ -1,12 +1,12 @@
 {1}
-Works on both iOS and Android.
+Works on both iOS and Android.{Don't wanna maintain the *?}
 29
 Mieruko-chan
 This guy here is really neat!
-You can control it with your phone.
+You can control him with your phone.
 No need to enter a dilapidated building ever again!
 Would you like one?
-I have to admit it is a little noisy, though.
+I have to admit, he is a little noisy though.
 I don't want it.
 Romm.
 Why are you here?
@@ -20,7 +20,7 @@ And all I see you doing is selling shady merchandise.
 You sent that photo, didn't you?
 What are you up to?
 I knew it was too early for you to retire.
-You're just as sharp as you used to be.
+You're just as sharp as ever.
 
 {3}
 Are you mocking me?
@@ -37,7 +37,9 @@ ITCHY{oh it's this guy again}
 ITCHY
 clench
 clench
-You seem to have gotten stronger since we've last met.
+Oh?{missing}
+Are you able to see these now?{missing}
+You must have gotten stronger since we last met.
 ITCHY
 It would be great if we could join forces.
 ITCHY
@@ -53,32 +55,32 @@ So, tell me then.
 When do you plan to take those girls up the mountain?
 ...
 I won't let you lay a finger on them.
-re ee ee ee ee ee ee ee{actually}
+re ee ee ee ee ee ee ee{actually}{The reeeturn}
 clench
 clench
 
 {6}
 Very well.
-My apologies, I only had enough time to stop by to say hello.
+My apologies, I only had enough time to stop by and say hello.
 See you later, Mitsue.
 I have to head back home and finish editing my videos.
 Goodbye.
 ...
 
 {7}
-Kitchen{or whatever a cooking room is called at school}
-It's done!
+Home Ec{or whatever a cooking room is called at school}
 Tada!
+It's done!
 Is that some kind of chimera?
 It's avant-garde!
 Weren't we supposed to be making meatloaf today?
-The teacher said I could make an extra side!
+Miss said I could make an extra side!
 I guess you could call that a side in some universe...
 Do you cook a lot, Miko?
-A little bit.
+A little.
 I make lunch for my brother sometimes.
 That's so nice!
-Maybe I'll make desert too.
+Maybe I'll make dessert too.
 
 {8}
 And I bet Hana focuses more on the eating part?
@@ -86,7 +88,7 @@ Well, actually!
 I bake cakes and stuff!
 I can see you snacking on it as you go and ending up with a tiny cake!
 I do not!
-Oh...
+Huh...
 I'm no good at cooking, so I'll leave it to you guys. I'll take care of the dishes.
 Yeah, you are pretty clumsy.
 You'll be fine, just give it a go!
@@ -101,7 +103,7 @@ jingle
 {9}
 What's up?
 N-Nothing.
-I haven't heard those bells for the past few days.
+I haven't heard those bells for a few days.
 I think Mitsue was right.
 {flashback}
 I'll take care of your business with the shrine.
@@ -125,7 +127,7 @@ I just remembered I was good at making meatloaf.
 I want to knead too!
 ...
 Look, I made a heart!
-That's so cringey.
+That's so cringy.
 Shut up!
 Oh, I know.
 
@@ -169,9 +171,11 @@ Wait a minute...
 Is it "cooking"?
 clang
 ...
+clang{missing}
+clang{missing}
 
 {16}
-Eek
+Eek{Isn't this the little dude screaming/strangling, not Miko?}
 
 {17}
 Look, it's a tomato star!
@@ -186,14 +190,14 @@ Leave it to me!
 {18}
 !
 ♪
-Can you fry the veggies?
+Can you fry the vegetables?
 Sure!
 
 {19}
 peek
 heeelp
-p—
-Oh my god!
+p—{p? Isn't this more it thinking Miko saw?}
+Oh no!
 
 {20}
 Eek!
@@ -203,7 +207,7 @@ What did we need onions for?
 I-I'm gonna make some sauce.
 Do onions really make you cry that much?
 I love onion sauce!
-All right, we'll leave it to you!
+All right, we'll leave it to you.
 
 {21}
 eeeghh
@@ -214,9 +218,9 @@ Just a little is fine.
 La la la ♪
 hiss hiss
 Meatloaf
-It smells great!
+Smells great!
 Looks delicious, too!
-Their's looks really good!
+Theirs looks really good!
 
 {22}
 squirm
@@ -228,7 +232,7 @@ sprinkle
 sprinlke
 
 {23}
-I guess it was "cooking"...
+I guess it really was "cooking"...
 It's ready now.
 Whoa!
 Tada!
@@ -240,11 +244,11 @@ Yay?
 aa
 aaah
 aaahh...
-And it just walks away...
+And it just leaves...
 Mr. Zen will love this!
 
 {25}
-Staff room
+Staff Room
 We made this for you!
 You're not going to say it was from Chie?
 She said she wanted us to say it was "from all of us".
@@ -255,5 +259,5 @@ I'll have a little, then.
 How is it?
 All right.
 All right.
-We'd better bring some to Julia, too.
+We'd better save some for Julia, too.
 {mask bottom}

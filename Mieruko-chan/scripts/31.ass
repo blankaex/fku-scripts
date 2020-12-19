@@ -1,16 +1,16 @@
 {1}
 Hana
 I caught a cold, might skip school today
-I'm a ded rabbit
+I'ma dead rabbit
 31
 Did you hear? Hana's out sick.
 Yeah.
 I didn't think she'd be the type to get sick.
-Apparently she jumped into the river yesterday.
+Apparently she jumped into a river yesterday.
 What? Why?
-I dunno, she does stuff like that sometiems.
+I dunno, she does stuff like that sometimes.
 Right...
-Yeah, she doesn't seem like the type to get sick but she _does_ seem like the type to jump into a river.
+She doesn't seem like the type to get sick, but she _does_ seem like the type to jump into a river.
 I hope she's okay.
 Hana's counter-intuitive ecology.
 
@@ -31,13 +31,13 @@ Sorry...
 Umm...
 I'm so hungry... I can't move...
 May I go to the infirmary?
-Wait, Hana's all weak right now!
-What if that thing comes up to her?
+Wait, Hana's vulnerable right now!
+What if that thing attacks her?
 
 {4}
 What's going to happen to her?
 I gotta go!
-Huh? Wha—?
+Huh? Wha—
 Wait!
 
 {5}
@@ -47,9 +47,9 @@ I said I'd be fine!
 How are you feeling?
 My temperature's gone down a bunch!
 I'm still a bit wobbly though.
-This is my first time coming over to a friend's house...
+This is my first time coming over to a friend's house...{cute}
 RUMBLE
-Oh, right.
+Ah...
 
 {6}
 My stomach's rumbling again...
@@ -61,10 +61,10 @@ Thanks for the apples!
 Mom went out to buy ingredients for dinner.
 My hunger was probably going to get me before the cold did!
 I'm glad you still have your appetite.
-slash
-slash
+peel
+peel
 Does she even need to peel it?
-Man I feel great after getting some food in my belly!
+Man I feel great after getting some food in my tummy!
 Oh, her aura's back.
 
 {8}
@@ -83,7 +83,7 @@ One sec...
 It's fine! Just stay put, Hana!
 We'll make the tea.
 wink
-Y-Yeah, we'll do it.
+Y-Yeah.
 ...
 Hey, I wanted to ask about Hana's aura.
 D-Don't worry, I'll keep it a secret!
@@ -108,7 +108,7 @@ Phew.
 !
 Julia! Her aura's dwindling again isn't it?
 Huh? I-Is it?
-I dunno...
+I don't think it is...
 I'm kinda hungry...
 But kinda not hungry...
 
@@ -137,7 +137,7 @@ This warms me right up.
 You can keep it.
 I have a feeling you'll be needing it.
 I should've brought that stone.
-Actually, I don't even know if it works or not.
+Actually, I don't even know if it works or not.{alt: Actually, I don't know how it works.}
 It might even have the opposite effect.
 Here Hana, have some apple.
 I guess I'll have to do what I can to keep her aura full.
@@ -152,9 +152,9 @@ A spiritual eyesight test?
 Could you do me a favor?
 Just give me a sign if you see Hana's aura fading.
 wink
-Is she testing me to see how well I can make out Hana's aura while it's unstable because of her cold?
+Is she testing me to see how well I can make out Hana's aura while her cold's making it unstable?
 It doesn't look like it's about to do anything.
-I hope it gets bored and goes off somewhere.
+I hope it'll just get bored and go away.
 
 {17}
 snap
@@ -162,11 +162,11 @@ squeeze
 Could you do me a favor?
 Just give me a sign if you see Hana's aura fading.
 wink
-She's signalling me!
-And she's so bad at winking!
+The sign!
+And she's so bad at winking!{cute}
 
 {18}
-She's getting tangled up in its hair!
+It's tangling her up in its hair!
 Hana!
 Hmm?
 
@@ -186,12 +186,12 @@ It looks pretty weakened after getting hit by Hana's aura.
 glub
 glub
 glub
-It managed to make it out alive...{sounds like it might be the ghost talking}
+It managed to make it out alive...{sounds like it might be the ghost talking}{Doubt it}
 Gosh, it's so hot.
 I need to let some air in.
 Oh yeah, I almost forgot.
 Do you two have some time after this?
-What?
+Huh?
 
 {22,23}
 
@@ -223,14 +223,17 @@ Huh?
 ring ring
 Miko...
 Could you get that?
+beep
+Hello?
 Hi, Wisdom Sushi!
 I have your order.
 
 {31}
-I told mom that you two came over, so she ordered sushi for us.
+I told Mom that you two came over, so she ordered sushi for us.
 I totally forgot to tell you!
 I'm glad it arrived in time, though!
 I feel so much better after some sushi!
+Whoa...
 Come on, have some!
 
 {32}
@@ -251,11 +254,11 @@ I'm not cut out for this...
 
 {34}
 What are you talking about?
-I don't know what would've happened without you.
+I don't know what would have happened without you.
 You were amazing.
 Thank you for the help.
 H-Hmph...
 I'll lend you my powers if I must...
 Oh, she's trying to wink.
-She still can't do it.
-A "you're welcome" wink—successfully failed.
+Still can't do it.
+"You're welcome" wink successfully failed.

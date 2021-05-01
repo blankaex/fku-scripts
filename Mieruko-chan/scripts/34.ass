@@ -2,14 +2,14 @@
 {mask right}
 34
 Mieruko-chan
-A line of people(?) in spiritual(?) attire. What is their goal?{help}
+A congregation spiritually robed. What is their goal?{goal? destination?}
 
 {2}
 
 {3}
 
 {4}
-Oh, did you see that?
+Whoa, did you see that?
 I think it was a fox.
 Foxes are my favorite animal!
 Though I don't really like animals, to be honest.
@@ -24,13 +24,13 @@ Will you shut up already?
 
 {5}
 We're not on a picnic.
-You know that better than anyone, Romm.
+You of all people should know that, Romm.
 Of course I do.
 So, what's your favorite animal, Mrs. Mitsue?
 {merge}
 ...
 I heard they've known each other for quite a while.
-They don't seem to like each other very much though.
+They don't seem to get along very well, though.
 Awkward...
 I don't know what he told you, Miko, but don't trust him.
 {merge}
@@ -38,7 +38,7 @@ He only cares about himself.
 That's not a very nice thing to say. I'm right here...
 
 {6}
-Maybe she shouldn't trust you?
+Maybe you're the one she shouldn't trust.
 !
 What did you just say?
 All I did was answer her questions.
@@ -52,7 +52,7 @@ How trustworthy you must be.
 What do you know?
 
 {7}
-There are some things you're better off not knowing.
+Some things are better left unsaid.
 I told you to leave Miko out of this.
 You're making a fundamental mistake here.
 Miko is the party in question.
@@ -70,8 +70,8 @@ I think she feels like talking now.
 {9}
 {ghost speak}
 This mountain is a well-known gathering spot.{like a ghost hotspot. we used "gathering spot" in 14}
-There are plenty of them loitering around, as I'm sure you're aware.
-All of the residents moved out, so there are abandoned buildings everywhere.
+There are plenty of them lingering, as I'm sure you're aware.
+All of the residents moved out, so there are abandoned buildings everywhere.{Wow is this Mayoiga}
 No one even dares to come close anymore.
 
 {10}
@@ -119,27 +119,27 @@ I asked them to help me, too?
 !
 They said "three times".
 Three times.
-After that, the ones in the kimonos showed up when I needed help.
+After that, the ones in the kimonos showed up whenever I needed help.
 I was wondering if that meant they would only rescue me three times.
 Maybe I was wrong, though.
 
 {14}
 That's quite unconventional.
-Most people that visit will come intentionally, with one clear wish.
+Most people who visit will come intentionally, with one clear wish.
 To cure a terminal disease, for example.
-But you just waltzed in by accident{ following your phone},
+But you just waltzed in by accident,
 and made two wishes.
 And a very vague wish, at that.
 They must have had a tough time handling your request.
 
 {15}
-If we assume "three times" refers to the number of times they will help you,
-then your three chances are already up.
+If we assume "three times" refers to the number of times they'll help you,
+then your three chances are already up.{How could Romm know this?}
 What do you suppose might happen if you default on your debts?
 That's right. Your cosigner will be responsible.
 !
 Romm!
-Yes, Ma'am?
+Yes, Ma'am?{Hai, Kazuma desu}
 That's enough!
 
 {16}
@@ -153,7 +153,7 @@ If you go to the shrine again,
 you might not be able to leave.
 I didn't come without a plan.
 Go home, Miko.
-Right now.
+While you still can.
 I can't...
 
 {17}
@@ -200,8 +200,8 @@ hey
 hey
 
 {23}
-When I give the signal,
-I want you to follow me.
+On my mark,
+follow me.
 
 {24}
 
@@ -237,7 +237,7 @@ I just borrowed a bit of her aura.
 Were you planning this from the start?
 Not at all.
 This was Plan B.
-I don't know if this will work,
+I don't know if it will work,
 but I don't think we have time to stand around and chat.
 heeey
 heeey
@@ -263,7 +263,7 @@ rustle
 rustle
 It's working?
 I hear it can cure sickness, too.
-Pull the other one!
+No way!
 Whoa!
 
 {33}
@@ -273,12 +273,12 @@ squeak
 jingle
 !
 It's those bells!
-Looks like it went well.
+Looks like it worked.
 jingle
 jingle
 jingle
 
 {34}
-plop
+clack
 Success?
 They fended off the evil spirits, and the entrance appeared before them.

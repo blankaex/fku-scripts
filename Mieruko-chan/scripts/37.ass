@@ -2,7 +2,7 @@
 Mieruko-chan
 {foreground text r->l}
 Countless heads raised,
-drowsily waiting
+sheepishly waiting
 for her to cry
 {background text r->l}
 I cry
@@ -11,19 +11,19 @@ and cry
 and cry
 and cry
 and cry
-and I still haven't cried enough
+and still I haven't cried enough
 
 {2}
 Stones might all look the same, but they're all unique.
-Some of them have a bit of a glimmer, shall we say? It's a bit like the stone is trying to tell you something.
-I'll teach you how to tell apart the powerful stones from the—
+Some have a bit of a glimmer, shall we say? It's kind of like the stone is trying to tell you something.
+I'll teach you how to tell the powerful stones apart from the—
 Did you hear that?
 Just now.
 
 {3}
 Romm.
 Listen closely. This is important.
-Never ever set foot near that mountain.
+Never ever set foot on that mountain.
 I don't care what you hear. Don't do it.
 Understood?
 All right.
@@ -44,17 +44,17 @@ You've always been like this.
 Ever since we met.
 
 {7}
-I made up my mind to do whatever I could to support those children.
+I decided I'd do whatever I could to support those children.
 Be it running a shady fortune telling store or whatever.
 The children that come to us aren't like the rest.
 They're full of feelings with nobody to confide in.
 They need help more than anyone.
 You've worked so hard for this, but you only ever have the children in mind.
-You need to look out for yourself too.
+You need to look out for yourself as well.
 
 {8}
 You're acting like you're their mother.
-Oh, that brings me back!
+Oh, that brings me back!{takes me back?}
 I mean, sure...
 But it still feels weird calling myself "Godmother" in front of him.
 You might be right, though.
@@ -62,13 +62,13 @@ I might have been taking advantage of you.
 That child is extremely talented. He needs someone to guide him.
 It was my job to show him the way.
 But I just made excuses, like being busy with my TV work.
-I can't believe myself.
+I can't believe I did this.
 It's not you who's not good enough. It's me.
 I'm getting mad at myself just thinking about it.
 
 {9}
 I'll take care of things.
-Just leave it with me.
+Just leave him with me.
 ...
 No.
 I said I'd look after him.
@@ -113,20 +113,23 @@ Is this smoke?
 {20}
 Miko! Are you all right?
 I'm fine...
-What's this?
+What is this?
 ...
 It's insect repellant.
+Brimming with power.
+{missing?}
+!
 Also it's not very good for you, so try not to breathe too much of it in.
-! {lmao her face}
+... {lmao her face}
 What did you do?
 
 {21}
 Mrs. Mitsue, Miko,
-I think it would be in our best interests
-to get out of here while we still can.
+I think it would be in your best interests{You should make like trees}
+to get out of here while you still can.{and get the hell out of here.}
 !
 The barrier has been weakened.
-Mrs. Mitsue, you should be powerful enough to pass through now. {while it's weakened}
+Mrs. Mitsue, you should be able to pass through now. {while it's weakened}
 Not to worry, Miko.
 I won't be charging for this service.
 Aren't you glad to hear that?
@@ -141,8 +144,8 @@ I'm tired of your shit, Romm.
 
 {23}
 All those years ago,
-that bell was given to me.
-It was stolen, so I came to take it back.
+this bell was given to me.
+It was stolen, so I came to take it back.{What even}
 That's all there is to it.
 Wha—
 Thank you for your help.
@@ -150,7 +153,7 @@ Thank you for your help.
 {24}
 If you'll excuse me.
 Goodbye.
-Go, quick.
+Go, quickly.
 
 {25}
 !
@@ -169,7 +172,7 @@ screeeech {oh that's his counter strat for the bell sound?}
 {30}
 ...
 The bells are ringing again!
-It made my mind go all blank earlier... {:^)}
+It made my mind go blank earlier... {:^)}{Miko's thoughts: IA, IA, IA, IA, IA...}
 And not in a good way...
 Mrs. Mitsue?
 thud
@@ -182,7 +185,7 @@ Quiet.
 
 {32}
 I'm your master.
-A master would never leave her apprentice behind.
+And a master would never leave her apprentice behind.
 Mrs. Mitsue!
 Romm!
 !
@@ -193,19 +196,19 @@ Understood?
 {33}
 [autistic screeching]
 {jingle}
-puff {we shounen dashing now?}
+puff {we shounen dashing now?}{I don't like this but can't think of an alt. Onomatopoeia why}
 puff
 
 {34}
 Mitsue?
 Yeah?
 Remember that chat we had the other day?
-Did you have some time to think about it?
+Have you had some time to think about it?
 Oh, about becoming your apprentice?
 Yes, that.
 Hmm... I'm not too sure.
 Still thinking, huh?
-What's holding you back?
+What's troubling you?
 
 {35}
 I'm sure you'll be able to help plenty of people in the future.
@@ -213,7 +216,7 @@ Trust me.
 No, it's not that...
 I don't like the name you gave me.
 Can I have another one?
-I'm not budging on that one.
+I'm not budging on that.
 It's perfect for you!
 Come on...
 You're the apprentice,
@@ -228,4 +231,4 @@ and I'm the master,
 Spirits, begone!
 Oka Towako Exorcism Exhibition
 Master and apprentice reunited.
-I will punish those who resent my apprentice.{tlc}
+Those who resent my apprentice will be punished.{tlc}

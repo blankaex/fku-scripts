@@ -319,7 +319,7 @@
     },
     "34": {
         "title": "Mieruko-chan",
-        "volume": "Volume 05",
+        "volume": "Volume 06",
         "groups": {
           "Fairy Knight University": "/proxy/api/imgur/chapter/42GKlRM/"
         },
@@ -327,7 +327,7 @@
     },
     "35": {
         "title": "Mieruko-chan",
-        "volume": "Volume 05",
+        "volume": "Volume 06",
         "groups": {
           "Fairy Knight University": "/proxy/api/imgur/chapter/DjuI53J/"
         },
@@ -335,11 +335,19 @@
     },
     "36": {
         "title": "Mieruko-chan",
-        "volume": "Volume 05",
+        "volume": "Volume 06",
         "groups": {
           "Fairy Knight University": "/proxy/api/imgur/chapter/MFVmxT3/"
         },
         "last_updated": "1626526599"
+    },
+    "37": {
+        "title": "Mieruko-chan",
+        "volume": "Volume 06",
+        "groups": {
+          "Fairy Knight University": "/proxy/api/imgur/chapter/UMJg3VW/"
+        },
+        "last_updated": "1630197491"
     }
   }
 }

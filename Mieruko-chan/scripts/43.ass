@@ -34,14 +34,14 @@ I'm fine, really.
 
 {6}
 You should definitely get it checked out!
-What if your skull was pulverized?{smushed?}
+What if your skull was shattered?
 Come on, Hana...
 ...
 Hello?
-My friend was hit by a truck, and her skull has been pulverized.
+My friend was hit by a truck, and her skull has been shattered.
 Could you please send an ambulance?
 Hey hold up, hold up!
-I get it, I'll go to the hospital!
+I get it! I'll go to the hospital!
 I'll come with you!
 Me too.
 I'll be fine by myself!
@@ -50,7 +50,7 @@ I'll be fine by myself!
 {7}
 It's just a little bump.
 You'll be fine.
-You were very lucky to avoid being hit.
+It could have been a lot worse.
 Yeah...
 ...
 So uh, was there anything else? Like, I dunno... Maybe with my brain?
@@ -75,13 +75,13 @@ let's get started
 ...
 how long has it been {since you've had these symptoms}
 What?
-Well...
-This might assist in a diagnosis.
+I see...
+Another scan may provide us with more insight.
 ow it hurts
-There's a number of root causes to hallucinations.
+Healthy people don't typical express these symptoms.
 aaaahh
 im fine im fine
-These can range from simple things to serious prognoses.
+These questions will help in assessing your situation.
 Damn... I can't hear a thing he's saying.
 
 {9}
@@ -100,7 +100,7 @@ Have trouble sleeping at night?
 you can't see?
 there's a shadow
 Yeah, exactly!
-I bet they're both wondering what I'm talking about...
+They both must be getting suspicious!
 noooooo
 Hmm...
 next patient please
@@ -113,7 +113,7 @@ Thank you!
 {lmao}
 -ya General Hospital
 They're keeping you here?!
-Did your skull get pulverized?
+Was your skull shattered?
 Are you gonna die?
 
 {11}
@@ -154,7 +154,7 @@ Sorry Hana, they said only family members are allowed to visit.
 Are you okay?!
 They're keeping you there?
 Just for some tests. I'm fine.
-My mom and brother already left.
+Mom and Kyousuke already left.
 Gosh, you scared me.
 Phew.
 Michiru was worried about you as well!
@@ -188,7 +188,8 @@ ahh aaahhh
 Sor?
 Sor...
 Sorbet would be pretty good...
-You want some ice cream? Got it!{Are we losing the absurdity here? Since ice cream actually is a snack}
+Calls OK!
+You want some ice cream? Got it!
 Sorry Hana, I gotta go. It's almost dinner time.
 I'll call you later!
 Wh—
@@ -197,7 +198,7 @@ buzz buzz
 ...
 slip
 phew...
-This is a worse headache than the truck gave me...
+This makes my head hurt more than the truck did...
 It's so hard to tell if they're real or not.
 
 {18}
@@ -219,7 +220,7 @@ No!
 I was hiding from the buzzing guy!
 So you were playing hide and seek...
 The buzzing guy?
-Bye bye, other girl who sees them.
+Bye bye, girl who sees them.
 Huh?
 Girl who... sees them?
 
@@ -227,7 +228,7 @@ Girl who... sees them?
 —al Hospital
 Kinda reminds me of lunch in elementary school.
 Who was she?
-She could clearly see them.
+She could see them clearly.
 This is awful!
 !
 
@@ -238,7 +239,7 @@ Uh...
 Hahaha...
 You want some jelly?
 Take it!
-Th-That's okay, thanks...
+No thank you...
 You didn't finish your carrots again, Mr. Sasaki.
 I can't eat this slop!
 Come on, don't be picky.
@@ -250,7 +251,7 @@ Oh god, something's here.
 
 {24}
 How are you feeling, Mr. Sasaki?
-Can it!{TLC}
+Can it!
 Do something about this awful food!
 Good to see you're doing well.
 It was a person...
@@ -259,13 +260,13 @@ How are you feeling,
 Miss Yotsuya?
 Oh,
 This doctor looks like he's in worse shape than me...
-Fine—
+I'm—
 Can't you hear me?
 Huh?
 Don't make me eat this slop!
 Michiko!
-I'd much rather eat your cooking!
-You don't have to cook anything!{TLC}
+I like your cooking better!
+You don't have to cook anything!
 
 {25}
 ...
@@ -279,18 +280,18 @@ How are you feeling?
 Good to see you're doing well.
 How are you feeling?
 Oh...
-Fine...
+I'm...
 ...
 
 {27}
-Finally time for this lime jelly...
-Aw, it's apple...
-Lime jelly for me too!
+I'm in the mood for some red bean soup
+Not this jelly...
+Red bean soup for me too!
 ...
 How are you feeling?
 ~~~
 That... was close...
-Why has there been so many? Because we're in a hospital?
+Why have there been so many? Because we're in a hospital?
 sigh
 Apple Jelly
 
@@ -299,18 +300,18 @@ Wow, you're amazing!
 You could see that one too!
 She scared me...
 Chiharu, was it?
-Are you a patient here?
+Are you staying here too?
 Nope!
 My dad is, though.
-They said he'll be discharged soon.
+They said he can come home soon.
 Did you get punched in the head?
 Not exactly...
 Can you see them as well, Chiharu?
 Yeah, I can.
 I could ever since I was little.
 Chiharu!
-Oh, my mom's calling!
-Hey, you seem pretty good at ignoring them,
+Oh, Mom's calling me!
+Hey, you're pretty good at pretending,
 but you should watch out.
 It comes out at night time...
 
@@ -326,7 +327,7 @@ I really need to pee...
 It comes out at night time...
 Hmm...
 The ones that jump out at you are pretty scary...
-but I dunno if knowing about it in advance will help...
+but I dunno if knowing about it in advance is any better...
 
 {31}
 urgh

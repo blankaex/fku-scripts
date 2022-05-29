@@ -2,14 +2,14 @@
 Mieruko-chan
 Huh?
 43
-Something appears right before Miko's eyes.{*}
+Suddenly, before her very eyes...
 
 {2}
 Ngh!
 
 {3}
 Mmf...
-Miko! Are you okay?
+Miko! Are you okay?!
 ...
 Are you hurt, Yotsuya?
 Watch it, dumbass!
@@ -23,18 +23,18 @@ Y-Yeah...
 {spoop}
 
 {5}
-You scared me when you just jumped out onto the road!
+You really scared me, jumping out onto the road like that!
 Sorry.
-Did you hurt your head?
+Did you hit your head?
 I'm all right.
-Thanks Michiru.
+Thank you, Michiru.
 For pulling me back.
 You should go to the hospital.
 I'm fine, really.
 
 {6}
 You should definitely get it checked out!
-What if your skull was pulverized?
+What if your skull was pulverized?{smushed?}
 Come on, Hana...
 ...
 Hello?
@@ -50,52 +50,53 @@ I'll be fine by myself!
 {7}
 It's just a little bump.
 You'll be fine.
-Good thing you didn't get run over, huh?
+You were very lucky to avoid being hit.
 Yeah...
 ...
-Is that all? Was there anything else? Like, I dunno... Maybe with my brain?
-Something that might make me see stuff I shouldnt?
+So uh, was there anything else? Like, I dunno... Maybe with my brain?
+Something that might make me see stuff I shouldn't?
 Nothing at all?
-Huh?
+Pardon?
 Are you seeing things?
 Oh, n-no... I was just wondering...
 What the heck am I saying?
 Hmm...
-If you're worried then I'll just ask you a few quick questions.
+If you're worried, then I'll just ask you a few quick questions.
 I-It's okay, really...
 It'll only take a minute.
 aaahh
 
 {8}
 what's the matter
-{idk make up something}
+Your scans suggest nothing out of the ordinary.
 im feeling much better
-{??}
+Do you ever have trouble focusing?
 let's get started
 ...
-how long has it been (since you've had these symptoms)
+how long has it been {since you've had these symptoms}
 What?
-Right.
-{...}
+Well...
+This might assist in a diagnosis.
 ow it hurts
-{...}
+There's a number of root causes to hallucinations.
 aaaahh
 im fine im fine
-{...}
+These can range from simple things to serious prognoses.
 Damn... I can't hear a thing he's saying.
 
 {9}
 I need to brush this off somehow.
 give me
-{...}
+Do you often fall ill?
 aaahh
 aaaahhhhh
 hahahaha
 Umm... Yeah...
 medicine
-{...}
+Ever feel tired or fatigued?
 Y-Yeah, that's right...
 hahaha
+Have trouble sleeping at night?
 you can't see?
 there's a shadow
 Yeah, exactly!
@@ -103,8 +104,8 @@ I bet they're both wondering what I'm talking about...
 noooooo
 Hmm...
 next patient please
-{...}
-—can leave now.
+This might be quite serious.
+—can leave for now.
 Is it over?
 Thank you!
 
@@ -163,7 +164,7 @@ All right. Take it easy, okay?
 I'll bring you some snacks! How many kilos do you need?
 Hahaha
 I'll be fine.
-What do you mean kilos lol
+Kilos, huh...
 
 {15}
 buzz buzz
@@ -171,11 +172,11 @@ buzz buzz
 Hm? Did it drop out?
 Hello?
 aaahhh
-Hey,
+Hey!
 Turn that off!
 Oh, sor—
 Calls OK!
-Hang on, I'm allowed to use my phone here...
+Wait, I'm allowed to use my phone here...
 
 {16}
 turn that off
@@ -187,7 +188,7 @@ ahh aaahhh
 Sor?
 Sor...
 Sorbet would be pretty good...
-You want some ice cream? Got it!
+You want some ice cream? Got it!{Are we losing the absurdity here? Since ice cream actually is a snack}
 Sorry Hana, I gotta go. It's almost dinner time.
 I'll call you later!
 Wh—
@@ -196,7 +197,7 @@ buzz buzz
 ...
 slip
 phew...
-This does my head in more than the truck did...
+This is a worse headache than the truck gave me...
 It's so hard to tell if they're real or not.
 
 {18}
@@ -205,7 +206,7 @@ Hey, can you see them?
 That guy just now?
 
 {19}
-The guy that said to turn off your phone.
+The guy that said to turn your phone off.
 You saw him, right?
 Huh?
 Chiharu!
@@ -218,26 +219,26 @@ No!
 I was hiding from the buzzing guy!
 So you were playing hide and seek...
 The buzzing guy?
-See you later, lil miss can see ghosts.
+Bye bye, other girl who sees them.
 Huh?
-She can see them?
+Girl who... sees them?
 
 {21}
 —al Hospital
-Kinda reminds me of the lunch from elementary school.
+Kinda reminds me of lunch in elementary school.
 Who was she?
-She could see them perfectly.
+She could clearly see them.
 This is awful!
 !
 
 {22}
 This restaurant is terrible!
-There's no flavor at all!
-Huh?
+It all tastes awful!
+Uh...
 Hahaha...
 You want some jelly?
 Take it!
-I-I'm good, thanks...
+Th-That's okay, thanks...
 You didn't finish your carrots again, Mr. Sasaki.
 I can't eat this slop!
 Come on, don't be picky.
@@ -249,7 +250,7 @@ Oh god, something's here.
 
 {24}
 How are you feeling, Mr. Sasaki?
-Can it!
+Can it!{TLC}
 Do something about this awful food!
 Good to see you're doing well.
 It was a person...
@@ -258,13 +259,13 @@ How are you feeling,
 Miss Yotsuya?
 Oh,
 This doctor looks like he's in worse shape than me...
-I'm fi—
+Fine—
 Can't you hear me?
 Huh?
 Don't make me eat this slop!
 Michiko!
 I'd much rather eat your cooking!
-You don't have to cook anything!
+You don't have to cook anything!{TLC}
 
 {25}
 ...
@@ -278,19 +279,20 @@ How are you feeling?
 Good to see you're doing well.
 How are you feeling?
 Oh...
-I'm...
+Fine...
 ...
 
 {27}
-I'm feeling like some red bean soup...
-Not jelly...
-One red bean soup for me too!
+Finally time for this lime jelly...
+Aw, it's apple...
+Lime jelly for me too!
 ...
 How are you feeling?
 ~~~
 That... was close...
-Why are there so many? Because we're in the hospital?
+Why has there been so many? Because we're in a hospital?
 sigh
+Apple Jelly
 
 {28}
 Wow, you're amazing!
@@ -302,15 +304,15 @@ Nope!
 My dad is, though.
 They said he'll be discharged soon.
 Did you get punched in the head?
-I didn't quite get punched...
+Not exactly...
 Can you see them as well, Chiharu?
 Yeah, I can.
 I could ever since I was little.
 Chiharu!
-Oh, it's mom!
-Hey, you seem pretty good at playing things off,
+Oh, my mom's calling!
+Hey, you seem pretty good at ignoring them,
 but you should watch out.
-Night time in the hospital is bad news.
+It comes out at night time...
 
 {29}
 Bye!
@@ -321,16 +323,16 @@ What?
 {30}
 God...
 I really need to pee...
-Night time in the hospital is bad news.
+It comes out at night time...
 Hmm...
-The ones that jump out of nowhere are pretty scary...
-but I dunno if knowing about it in advance is any better...
+The ones that jump out at you are pretty scary...
+but I dunno if knowing about it in advance will help...
 
 {31}
-snore
+urgh
 zzz
 Oh, it was just him snoring.
-Hospitals at night are freaky...
+Hospitals at night are so freaky...
 
 {32}
 Where was the toilet again?
@@ -346,4 +348,4 @@ Uh...
 Err...
 I think the toilet is this way!
 Run, Miko!
-Abrupt acceleration. Can Miko escape?
+Sudden acceleration. Can Miko escape?

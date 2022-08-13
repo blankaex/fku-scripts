@@ -1,5 +1,5 @@
 {1}
--ital
+-ital{Huh?}
 oozing hot
 corn soup
 Mieruko-chan
@@ -7,23 +7,23 @@ Mieruko-chan
 It's pretty chilly tonight.
 Oh,
 this one's on me.
-Th—
-Thanks...
-Well, that was a pleasant surprise!
-I've never seen anybody running to the bathroom with an expression like—
-ROMM??? {excuse me?}
+Uh...
+Thanks.
+Well, that was quite the surprise!
+I've never seen someone so desperate for the bathroom—
+ROMM! {excuse me?}
 sigh
-What are you doing in the hospital?
-And in a doctor's coat at that?
+What are you doing here?
+And why are you dressed as a doctor?
 A hot drink to combat the chill running down her spine.
 
 {2}
 I'm doing a bit of an investigation.
-It's a pretty old hospital, you see.
+This is a pretty old hospital, you see.
 So there are a lot of ghost rumors going around.
-Apparently you can hear a woman's screams from the boiler room, so I went to go have a look,
+Apparently you could hear a woman's screams from the boiler room, so I went to have a look,
 but it turned out to be just the air conditioning whirring and screeching.
-It's pretty strange that there was nothing going on in the boiler room, of all places!
+It's pretty strange that there's nothing going on in the boiler room, of all places!
 Maybe that should be a rumor in its own right!
 hahaha!
 What's so funny?
@@ -31,10 +31,10 @@ What's so funny?
 {3}
 Are there a lot of them around because it's a hospital?
 Hospitals tend to attract more than usual, yes,
-but this hospital has a particularly dense ephemeral clientele.
-It's less because it's a hospital,
+but this hospital has a particularly dense ephemeral population.
+It's less about being a hospital,
 and more to do with the history of the land.
-There might be a more complicated backstory.
+There might be a colorful backstory.
 Or there may be no backstory at all.
 Anyway, what brings you to the hospital?
 Oh, this?
@@ -51,7 +51,7 @@ Likes: Lolol, caterpillars
 {5}
 She hasn't actually hurt anyone,
 and Hana seems to be fine around her too,
-but I'm not sure what I should do around her.
+but I'm not sure what I should do around her.{TLC: Repeats around, feels little off the mark}
 ...
 I see.{DO YOU REALLY}
 And she looks like a monster to you in this photo as well?
@@ -59,35 +59,35 @@ Yeah.
 Huh?
 She doesn't for you?
 Well, everybody has a different way of "seeing",{as in ghost seeing}
-but I'd hazard to say we're seeing something different.
+but I'd hazard to say we're seeing something different.{TLC: I feel like we should be more literal on this one, cause it's a pretty important lore point. "I don't know for sure how other people see them, but I think we're seeing something different.}
 
 {6}
-Take this window.
-You should be able to see my reflection in the glass.
-But you should also be able to see the scenery outside.
+Take this window, for example.
+You can see my reflection in the glass.
+But you can also see the scenery outside.
 tap
 My reflection is overlaid on top of the scenery,
-but you should be able to see both.
-That's how I "see" them.
+but you can see both at once.
+That's how I "see" them.{TLC: If changing above, maybe italicise "them"?}
 
 {7}
 "I just see a faint shadow." "I can see them clearly."
 "They look exactly the same." "They look completely different."
-"I can see this one, but I can't see that one."
+"I can see this one, but I can't see that one."{Are these quotes? Did you crosscheck?}
 I think in your case, Miko,
 the reflection in the glass is overpowering,
 and you're unable to see what lies beyond.
-If there's a monster on top of a person,
+If one of them is attached to someone,
 then you won't be able to see the person underneath.
 
 {8}
-What does that mean?
-Michiru is being possessed by a monster?
+In that case...
+Michiru has been possessed?
 That's an interesting idea.
-Have you ever seen anyone being possessed?
+Have you ever seen someone who's possessed?
 Yeah...
 I think so.
-I feel like this might be the case,
+I feel like you might be right,
 though it's hard to say just by looking at this photo.
 Would you be able to take some photos of her for me?
 As many as you can.
@@ -96,11 +96,11 @@ As many as you can.
 Huh?
 Me?
 Indeed.
-I would get arrested if I tried a stunt like that.
+I would get arrested if I pulled a stunt like that.
 I'll see what I can dig up on my end as well,
 but I'm actually a lot busier than I look.
 I've still got this investigation going on.
-I'm also planning to do a 24-hour stream to beat this horror game.{* edit note}
+I'm also planning on doing a marathon stream of a horror game.{* edit note}
 You don't sound busy at all.
 Anyway—
 tap
@@ -111,8 +111,8 @@ My food...
 Oh,
 that's my roommate.
 Is he looking for the toilet?
-It's room 303.
-Quick.{F for dementia man}
+Room 303.
+Quickly.{F for dementia man}
 
 {11}
 Miko, wait.
@@ -128,7 +128,7 @@ His condition suddenly took a turn for the worse.
 Where is he headed?
 ...
 Is he just going to keep wandering around?
-In this hospital, forever?
+Wandering the halls forever...
 
 {14}
 {F again}
@@ -142,9 +142,9 @@ Chiharu!
 We can finally hold hands!
 
 {17}
-Hi, dad.{????}
+Hi Dad.{????}
 Hey, can you see them?
-My dad is, though.{might need to modify this quote so it makes sense standalone}
+My dad is, though.{might need to modify this quote so it makes sense standalone}{I think it's fine}
 They said he can come home soon.
 
 {18}
@@ -174,7 +174,7 @@ Don't worry.
 gnash
 We'll be fine.
 gnash
-He's just going to send us off.
+He's just going to send us off.{He? She?}
 Bye bye, girl who sees them.
 It was nice meeting you!
 
@@ -186,7 +186,7 @@ It was nice meeting you!
 
 {27}
 -ya General Hospital
-We finally managed to sort out a private room for you.
+We finally managed to arrange a private room for you.
 Sorry it took so long.
 Thanks.
 It must've been quite a fright, finding out about Mr. Sasaki.
@@ -197,7 +197,7 @@ He lost his family quite a while ago.
 
 {28}
 He always looked so lonely,
-but for some reason he was super energetic yesterday.
+but for some reason he was rather spritely yesterday.
 Especially when he got his food.
 Normally we wouldn't have put you in the same room,
 but I heard you requested room 303 specifically.
@@ -206,7 +206,7 @@ Your room is just down the corridor—
 join us
 join us
 C-C-
-Can I have another room??
+Can I have another room?!
 This one! I want this one!
 Huh? But—
 I don't mind.
@@ -228,7 +228,7 @@ I'll bring over that sorbet you wanted!{10 years to remember what we memed this 
 Ah, yeah, don't worry about that.
 Huh? How come?
 Oh,
-sorry I gotta hang up.
+sorry, gotta go.
 What? Why—
 beep
 What should I do?
@@ -241,7 +241,7 @@ That was the first time I spoke to one of them.
 So I was thinking...
 Since nothing bad happened,
 maybe we could come to an understanding.
-Excellent idea! You might even be able to help people out while you're at it!
+Excellent idea! You might even be able to help people while you're at it!
 But do you think you can distinguish between the ones you should and shouldn't speak to?
 You seem to have a tough time even telling them apart from humans.
 
@@ -250,23 +250,23 @@ Mrs. Mitsue and I have been able to see them from the day we were born.
 From our years of experience, we've developed a bit of a knack.
 At times, we can tell which ones are safe to talk to.
 But that's not the case for you.
-There's no reason for you to come to this side.
-And you'd be a tough competitor in this business, too!
+There's no reason for you join us.
+Plus you'd be a tough competitor in this business, too!
 hahaha!
 
 {33}
 Yotsuya Miko
 {mask}
 sigh
-It's not like I asked to be able to see them.
+It's not like I want to be able to see them.
 ...
 But there has to be something I can do.
 
 {34}
 Whoa!
-Calm down, granny...
+Geez, granny...
 You almost gave me a heart attack.
-She's saying something...
+What's she saying?
 
 {35}
 ...

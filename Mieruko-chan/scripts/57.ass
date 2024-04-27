@@ -5,7 +5,7 @@ Hey!
 Mieruko-chan
 No—
 Ouch!
-Not there...
+Not that...
 Ow!
 Hi, Mr. Seto!
 Aw, the sparrow's back!
@@ -17,13 +17,13 @@ cheep
 chirp
 chirp
 What am I going to do with you?
-He's taken such a liking to you!
+He's {missing space here}taken such a liking to you!
 How cute!
 Has he really?
 chomp
 Ow!
-Ever since I treated his injury,
-he's been using my office like a restaurant.
+I treated his injury,
+and now he thinks this is a restaurant.
 chirp
 chirp
 What am I to do?
@@ -155,8 +155,8 @@ Well, if you say so, Mr. Seto.
 Thank you, boss!
 Good stuff, boss man!
 Don't worry, Hayashida!
-We'll take care of things here!
-Whoa!{Your call if we need these, Barric}
+We'll take care of things here!{this is the same guy as the prev line, should the font match?}
+Wow!{missed this one all the way on the right}
 clap
 clap
 Whoa!
@@ -166,7 +166,7 @@ I grew up with that dog. He's like a brother...
 I don't—
 Go on now.
 Tarou's waiting for you.
-Tarou, I'm coming!
+I'm on my way, Tarou!
 Huh? Wait a second...
 Did I ever tell Mr. Seto about Tarou?
 
@@ -186,7 +186,7 @@ Whoa!{F}
 !
 
 {16}
-Hello, there.
+Hello there.
 It's been a while.
 
 {17}
@@ -273,6 +273,7 @@ He's even got a tail on me.
 What a frightening fellow.
 
 {27}
+West Exit {just throw it under the station name I guess}
 {based izumi doing the sign and also forgetting to write west exit}
 {if you can't speak japanese just translate it yourself ok}
 {https://twitter.com/izumi000/status/1259449290021171201}
@@ -364,7 +365,7 @@ I pity you.
 
 {37}
 Taking the form of a child. Truly pathetic.
-Mooooommmmmyyyyy!
+Mooooommmmmyyyyy!{nice tsing}
 aaaaaaaah
 AAAAAAAAAAHHHHH
 fizzle
@@ -375,13 +376,13 @@ A rat has been causing some trouble for one of my colleagues lately.
 I know it's lurking around this station somewhere,
 but trying to figure out which rat is gnawing at your cheese
 isn't so easy.
-Investigation is a lot of work, you know?
-So, you know,
-I will simply stomp them all out.
+Investigation is a lot of work.
+So, you know.
+I've decided to simply stomp them all out.
 
 {39}
-Romm, did you know?
-I'll always side with humanity.
+Just so you know, Romm,
+I always side with humanity.
 If you're deceived by outward appearances,
 it'll come back to bite you in the ass.
 
